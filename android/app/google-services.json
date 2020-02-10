@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "854367291625",
+    "firebase_url": "https://facebook-with-fire.firebaseio.com",
+    "project_id": "facebook-with-fire",
+    "storage_bucket": "facebook-with-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854367291625:android:6e0599f6563954ebed0878",
+        "android_client_info": {
+          "package_name": "com.despotic.facebook_with_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854367291625-a5pp2bi86rn3a67ipuaef4jpvccf4ele.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.despotic.facebook_with_fire",
+            "certificate_hash": "60d8267b7b8b1fd30029f2ba5cef5ec588e67627"
+          }
+        },
+        {
+          "client_id": "854367291625-uqude7552r9ee0sd7s150pg41h0ok634.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4yytWC49S9NRmt0YEvvWi3I3XeVdiSCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854367291625-uqude7552r9ee0sd7s150pg41h0ok634.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
